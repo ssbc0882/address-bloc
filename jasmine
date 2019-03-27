@@ -1,0 +1,12 @@
+
+> address-bloc@1.0.0 test /Users/br/bloc/address-bloc
+> export NODE_ENV=test && jasmine
+
+Randomized with seed 88563
+Started
+...
+
+
+3 specs, 0 failures
+Finished in 0.009 seconds
+Randomized with seed 88563 (jasmine --random=true --seed=88563)

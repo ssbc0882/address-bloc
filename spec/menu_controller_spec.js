@@ -7,8 +7,8 @@ describe("MenuController", () => {
 
     });
 
-    describe("#getContactCount()", () => {
 
+<<<<<<< HEAD
         it("should return 0 when no contacts are in the book", () => {
             expect(this.menu.getContactCount()).toBe(0);
         });
@@ -26,4 +26,6 @@ describe("MenuController", () => {
 
     })
 
+=======
+>>>>>>> checkpoint-contact-connect
 });
