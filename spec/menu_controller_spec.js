@@ -7,4 +7,8 @@ describe("MenuController", () => {
 
     });
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> assignment-contact-connect
 });
