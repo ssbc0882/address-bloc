@@ -6,9 +6,9 @@ describe("MenuController", () => {
         this.menu = new MenuController();
 
     });
-
-<<<<<<< HEAD
-=======
-
->>>>>>> assignment-contact-connect
+    describe("#remindMe()", () => {
+        it("should return a string when remind me has text", () => {
+            expect(this.menu.remindMe()).toBe("Learning is a life-long pursuit");
+        });
+    });
 });
