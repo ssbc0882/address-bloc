@@ -1,0 +1,17 @@
+For the following situations, determine which search approach to use and why would you take that approach. Write your answers in the submission box below.
+
+1.Performing a search of a sorted by name IRS database for a taxpayer name
+
+A: binary search because the names are sorted
+
+2.Searching through an unsorted list containing the days of the weekend
+
+A: iterative search because the list is unsorted
+
+3.Given a list of the planets in the Milky Way in ascending order by size, search for a planet with a given size.
+
+A: binary search because the planets are listed in ascending order
+
+4. Searching for a checkpoint name in an unsorted list of Bloc checkpoints
+
+A: iterative search because the list of Bloc checkpoints are unsorted
